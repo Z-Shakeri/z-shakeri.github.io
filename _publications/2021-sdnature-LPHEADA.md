@@ -7,6 +7,5 @@ venue: 'Preprint- medRxiv'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2021.04.13.21255449v2.full.pdf+html'
 link: 'https://www.medrxiv.org/content/10.1101/2021.04.13.21255449v2'
 github: 'https://github.com/data-intelligence-for-health-lab/Lpheada-Labelled-Public-HEAlth-DAtaset'
-citation: 'Zahra Shakeri Hossein Abad, Gregory P. Butler, Wendy Thompson, Joon Lee.
-<i>medRxiv</i> 2021.04.13.21255449; doi:10.1101/2021.04.13.21255449'
+citation: 'Zahra Shakeri Hossein Abad, Gregory P. Butler, Wendy Thompson, Joon Lee. <i>medRxiv</i> 2021.04.13.21255449; doi:10.1101/2021.04.13.21255449'
 ---
