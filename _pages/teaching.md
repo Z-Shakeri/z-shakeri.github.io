@@ -5,7 +5,7 @@ title: "Teaching"
 
 >Ask yourself: who is the one teacher in your entire life who made the biggest difference for you--who taught you so well that you still think about him or her as your best teacher. I bet that for almost all of us, that best teacher was someone who knew you by name!
 >
->>>>>>>>>Kent Syverud, 1993
+>Kent Syverud, 1993
 
 
 ## Cumming School of Medicine, University of Calgary 
