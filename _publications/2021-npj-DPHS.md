@@ -6,5 +6,5 @@ date: 2021-03-01
 venue: 'Nature- Digital Medicine'
 paperurl: 'https://www.nature.com/articles/s41746-021-00407-6.pdf'
 link: 'https://www.nature.com/articles/s41746-021-00407-6'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+citation: 'Shakeri Hossein Abad, Z., Kline, A., Sultana, M. et al. Digital public health surveillance: a systematic scoping review. <i>npj Digit. Med</i>. 4, 41 (2021). https://doi.org/10.1038/s41746-021-00407-6'
 ---
