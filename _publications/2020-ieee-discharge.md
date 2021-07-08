@@ -1,11 +1,10 @@
 ---
-title: "Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk"
+title: "Predicting Discharge Destination of Critically Ill Patients Using Machine Learning"
 collection: publications
-permalink: /publication/2021-zjmir-AMT
-date: 2021-04-17
-venue: 'OSF Preprints'
-paperurl: 'https://osf.io/ndp8m/download'
-link: 'https://osf.io/ndp8m'
-github: 'https://github.com/data-intelligence-for-health-lab/CrowdSourcing-for-Digital-Public-Health-Surveillance'
-citation: 'Zahra Shakeri Hossein Abad, Thompson, W., Butler, G., & Lee, J. (2021, April 18). Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk. doi:10.31219/osf.io/ndp8m'
+permalink: /publication/2020-ieee-discharge
+date: 2021-03-20
+venue: 'IEEE Journal of Biomedical and Health Informatics'
+link: 'https://ieeexplore.ieee.org/abstract/document/9096542?casa_token=qfsDyXx6QycAAAAA:oXyAqkPO6iRJmB6_CdZag6e3wMlXXipTnFi8sNRhdnlZUm-T5bPr8Pd0OFAj86D-Oti1H8ZmWis'
+github: 'https://github.com/data-intelligence-for-health-lab/Discharge-Prediction_eICU-CRD'
+citation: 'Zahra Shakeri Hossein Abad, David M. Maslove, and Joon Lee. "Predicting Discharge Destination of Critically Ill Patients Using Machine Learning." IEEE Journal of Biomedical and Health Informatics 25.3 (2020): 827-837.'
 ---
