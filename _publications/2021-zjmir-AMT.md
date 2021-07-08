@@ -2,7 +2,7 @@
 title: "Crowdsourcing for machine learning in public health surveillance: lessons learned from Amazon Mechanical Turk"
 collection: publications
 permalink: /publication/2021-zjmir-AMT
-date: 2021
+date: 2021-04-17
 venue: 'OSF Preprints'
 paperurl: 'https://osf.io/ndp8m/download'
 link: 'https://osf.io/ndp8m'
