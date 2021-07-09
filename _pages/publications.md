@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+You can also find a complete list of my publication on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
