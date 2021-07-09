@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "My Recent Research Projects"
 ---
 
 ## Lpheada- Labelled Public HEAlth DAtaset: A multicountry, longitudinal, and fully labelled dataset for public health surveillance research
