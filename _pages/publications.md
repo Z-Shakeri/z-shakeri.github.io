@@ -15,3 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
