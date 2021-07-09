@@ -2,8 +2,8 @@
 permalink: /research/
 title: "Research"
 gallery:
-  - url: research/lpheada.jpeg
-    image_path: research/lpheada.jpeg
+  - url: images/research/lpheada.jpeg
+    image_path: images/research/lpheada.jpeg
     alt: "Labelled Public HEAlth DAtaset"
     title: "Labelled Public HEAlth DAtaset"
 header:
