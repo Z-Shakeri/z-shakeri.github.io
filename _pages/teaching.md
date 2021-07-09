@@ -15,7 +15,7 @@ While at the University of Calgary, I taught the graduate machine learning, data
 - DATA 624: Advanced Exploration and Visualization in Health (Winter 2021)
 - DATA 624: Advanced Exploration and Visualization in Health (Winter 2020)
 
-## Department of Computer and Software Engineering, University of Calgary
+## Department of Software Engineering, University of Calgary
 - ENSF 619: Machine Learning for Software Engineering (Winter 2019)
 - ENSF 619.25: Advanced Machine Learning (Spring 2019)
 
